@@ -5,4 +5,3 @@
 `go install github.com/sorenmat/uuid@latest`
 
 
-# uuid
