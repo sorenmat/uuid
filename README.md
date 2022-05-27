@@ -2,6 +2,6 @@
 
 ## Installation
 
-`go install github.com/sorenmat/uuid@latest`
+`go install github.com/sorenmat/uuid@master`
 
 
